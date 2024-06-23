@@ -4,12 +4,16 @@ import HeroBanner from "./components/HeroBanner";
 import FilterSection from "./components/FilterSection";
 import HouseList from "./components/HouseList";
 import FeaturedHouseList from "./components/FeaturedHouseList";
+import NewsLetter from "./components/NewsLetter";
+import Service from "./components/Service";
 
 const Components: any = {
     HeroBanner: HeroBanner,
     FilterSection: FilterSection,
     HouseList: HouseList,
-    FeaturedHouseList: FeaturedHouseList
+    FeaturedHouseList: FeaturedHouseList,
+    NewsLetter: NewsLetter,
+    Service: Service
 }
 
 export default function ComponentFactory(block: any){
