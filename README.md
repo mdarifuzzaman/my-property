@@ -1,3 +1,6 @@
+### This app is managed by CMS called CMSLIght [(https://www/cmslight.cloud)]
+If you want to learn more about CMSLight head to the website mentioned above. It's Free
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
